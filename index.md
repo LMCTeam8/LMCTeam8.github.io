@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/LMCTeam8/LMCTeam8.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Example Youtube Embedding
-{% include youtubePlayer.html id="yqKKhWFLx2M" %}
+{% include youtubeEmbedding.html id="yqKKhWFLx2M" %}
 
 ## Notes by Jinu
 1. I locked master branch
