@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/LMCTeam8/LMCTeam8.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Example Youtube Embedding
+{% include youtubePlayer.html id="yqKKhWFLx2M" %}
+
+## Notes by Jinu
+1. I locked master branch
+2. I still need to figure out how to allow local development, but I'm sure we can figure it out.
+3. If we want to change the basic layout, check out the [original repo](https://github.com/pages-themes/minimal)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
